@@ -74,3 +74,6 @@ C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Presentati
 C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Presentation\OnionIntro.Api\obj\Debug\net6.0\ref\OnionIntro.Api.dll
 C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Presentation\OnionIntro.Api\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Presentation\OnionIntro.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Presentation\OnionIntro.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Presentation\OnionIntro.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Presentation\OnionIntro.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

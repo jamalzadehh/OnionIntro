@@ -15,7 +15,6 @@ namespace OnionIntro.Domain.Entities
         public string CreatedBy { get; set; } = null!;
         public BaseEntity()
         {
-            CreatedAt = DateTime.Now;
             CreatedBy="%=>CreatedBy";
         }
     }

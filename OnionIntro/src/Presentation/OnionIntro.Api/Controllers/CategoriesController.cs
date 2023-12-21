@@ -46,6 +46,13 @@ namespace OnionIntro.Api.Controllers
             await _service.DeleteAsync(id);
             return NoContent();
         }
+        [HttpDelete]
+        public async Task<IActionResult> SoftDelete(int id)
+        {
+            if (id <= 0) return StatusCode(StatusCodes.Status400BadRequest);
+            await _service.SoftDeleteAsync(id);
+            return NoContent();
+        }
     }
 
 }

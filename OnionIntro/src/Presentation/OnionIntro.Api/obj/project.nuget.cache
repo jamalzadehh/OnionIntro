@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Z+2v0svHyuXffjeaw+nJQ5SCS/au92tLAqhGRkE8JS4RVtaW5He6H252naRv3EOIxiNeQBThQTmpGONHFOxf4Q==",
+  "dgSpecHash": "nVJ67knWy2cckjaTvM9MGebbSSMf5ZtHWJtu9p4i4tBahzEYq3fyTh6NaUTBly1ddKnjpIZTQue2/92QrwDU5w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sebuhi\\OneDrive\\İş masası\\API Architecture\\OnionIntro\\src\\Presentation\\OnionIntro.Api\\OnionIntro.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sebuhi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Sebuhi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sebuhi\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Sebuhi\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Sebuhi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\Sebuhi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sebuhi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Sebuhi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
