@@ -1,0 +1,11 @@
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\bin\Debug\net6.0\OnionIntro.Infrastructure.deps.json
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\bin\Debug\net6.0\OnionIntro.Infrastructure.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\bin\Debug\net6.0\OnionIntro.Infrastructure.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\obj\Debug\net6.0\OnionIntro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\obj\Debug\net6.0\OnionIntro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\obj\Debug\net6.0\OnionIntro.Infrastructure.AssemblyInfo.cs
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\obj\Debug\net6.0\OnionIntro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\obj\Debug\net6.0\OnionIntro.Infrastructure.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\obj\Debug\net6.0\refint\OnionIntro.Infrastructure.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\obj\Debug\net6.0\OnionIntro.Infrastructure.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Infrastructure\OnionIntro.Infrastructure\obj\Debug\net6.0\ref\OnionIntro.Infrastructure.dll

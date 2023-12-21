@@ -1,8 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using OnionIntro.Domain.Entities;
+using OnionIntro.Persistence.Configurations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,7 +12,7 @@ namespace OnionIntro.Persistence.Contexts
 {
     public class AppDbContext : DbContext
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options)
+        public AppDbContext(DbContextOptions<AppDbContext> options): base(options) 
         {
 
         }
@@ -19,13 +21,15 @@ namespace OnionIntro.Persistence.Contexts
         public DbSet<Product> Products { get; set; }
         public DbSet<Color> Colors { get; set; }
         public DbSet<ProductColor> ProductColors { get; set; }
+        public DbSet<Tag> Tags { get; set; }
+        public DbSet<ProductTag> ProductTags { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Product>().Property(x=>x.Price).HasColumnType("decimal(6,2)");
-            modelBuilder.Entity<Product>().Property(x=>x.Description).IsRequired(false).HasColumnType("text");
-            modelBuilder.Entity<Product>().Property(x => x.Name).IsRequired().HasMaxLength(100);
-            modelBuilder.Entity<Product>().Property(x => x.SKU).IsRequired().HasMaxLength(10);
+           
+
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+
             base.OnModelCreating(modelBuilder);
         }
     }

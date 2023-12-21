@@ -1,0 +1,11 @@
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\bin\Debug\net6.0\OnionIntro.Domain.deps.json
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\bin\Debug\net6.0\OnionIntro.Domain.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\bin\Debug\net6.0\OnionIntro.Domain.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\obj\Debug\net6.0\OnionIntro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\obj\Debug\net6.0\OnionIntro.Domain.AssemblyInfoInputs.cache
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\obj\Debug\net6.0\OnionIntro.Domain.AssemblyInfo.cs
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\obj\Debug\net6.0\OnionIntro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\obj\Debug\net6.0\OnionIntro.Domain.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\obj\Debug\net6.0\refint\OnionIntro.Domain.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\obj\Debug\net6.0\OnionIntro.Domain.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Domain\obj\Debug\net6.0\ref\OnionIntro.Domain.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OnionIntro.Domain/1.0.0": {
+        "runtime": {
+          "OnionIntro.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnionIntro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

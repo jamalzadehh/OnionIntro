@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ddnhCJuM3KJq98DFb1L5dPxgR/dPBzfYa8n5zH7Ae2ONiF8YgpBHz24tJnI8GKf0nb+NAOS5m7xkrXwYab7JWg==",
+  "dgSpecHash": "jfT6PV4O9EOJ/4FJW6Id33y+wAo/bwCIbegpFUrUJHzQt4OatbZyHt6cKzBtHOm7T03r4tZjLnxt3HgujsDXpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sebuhi\\OneDrive\\İş masası\\OnionIntro\\src\\Infrastructure\\OnionIntro.Infrastructure\\OnionIntro.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Sebuhi\\OneDrive\\İş masası\\API Architecture\\OnionIntro\\src\\Infrastructure\\OnionIntro.Infrastructure\\OnionIntro.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

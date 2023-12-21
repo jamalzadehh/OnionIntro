@@ -1,0 +1,15 @@
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\bin\Debug\net6.0\OnionIntro.Application.deps.json
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\bin\Debug\net6.0\OnionIntro.Application.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\bin\Debug\net6.0\OnionIntro.Application.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\bin\Debug\net6.0\OnionIntro.Domain.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\bin\Debug\net6.0\OnionIntro.Domain.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\obj\Debug\net6.0\OnionIntro.Application.csproj.AssemblyReference.cache
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\obj\Debug\net6.0\OnionIntro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\obj\Debug\net6.0\OnionIntro.Application.AssemblyInfoInputs.cache
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\obj\Debug\net6.0\OnionIntro.Application.AssemblyInfo.cs
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\obj\Debug\net6.0\OnionIntro.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\obj\Debug\net6.0\OnionIntro.Application.csproj.CopyComplete
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\obj\Debug\net6.0\OnionIntro.Application.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\obj\Debug\net6.0\refint\OnionIntro.Application.dll
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\obj\Debug\net6.0\OnionIntro.Application.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\API Architecture\OnionIntro\src\Core\OnionIntro.Application\obj\Debug\net6.0\ref\OnionIntro.Application.dll
