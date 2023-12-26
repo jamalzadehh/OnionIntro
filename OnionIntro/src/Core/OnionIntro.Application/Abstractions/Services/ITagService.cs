@@ -10,9 +10,11 @@ namespace OnionIntro.Application.Abstractions.Services
     public interface ITagService
     {
         Task<ICollection<TagItemDto>> GetAllAsync(int page, int take);
-        //Task<GetTagDto> GetAsync(int id);
+        Task<TagGetDto> GetByIdAsync(int id);
         Task CreateAsync(TagCreateDto tagDto);
         Task UpdateAsync(int id, TagUpdateDto updateTagDto);
-        Task DeleteAsync(int id);
+        Task DeleteAsync(int id); 
+        Task SoftDeleteAsync(int id);
+        Task ReverseDeleteAsync(int id);
     }
 }

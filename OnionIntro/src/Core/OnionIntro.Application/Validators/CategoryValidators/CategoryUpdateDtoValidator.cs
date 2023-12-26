@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace OnionIntro.Application.Validators.CategoryValidators
 {
-    internal class CategoryUpdateDtoValidator:AbstractValidator<CategoryUpdateDto>
+    public class CategoryUpdateDtoValidator:AbstractValidator<CategoryUpdateDto>
     {
         public CategoryUpdateDtoValidator()
         {
@@ -16,3 +16,4 @@ namespace OnionIntro.Application.Validators.CategoryValidators
         }
     }
 }
+    

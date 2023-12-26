@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace OnionIntro.Persistence.Implementations.Repositories
 {
-    internal class TagRepository:Repository<Tag>,ITagRepository
+    public class TagRepository:Repository<Tag>,ITagRepository
     {
         public TagRepository(AppDbContext context) : base(context)
         {

@@ -6,6 +6,6 @@ using System.Threading.Tasks;
 
 namespace OnionIntro.Application.DTOs.Categories
 {
-    public record CategoryItemDto(int id, string Name);
+    public record CategoryItemDto(int Id, string Name);
    
 }

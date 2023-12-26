@@ -13,8 +13,11 @@ namespace OnionIntro.Application.MappingProfiles
     {
         public CategoryProfile()
         {
-            CreateMap<Category,CategoryItemDto>().ReverseMap();
+            CreateMap<Category, CategoryItemDto>().ReverseMap();
             CreateMap<CategoryCreateDto, Category>();
+            CreateMap<CategoryUpdateDto, Category>().ReverseMap();
+            CreateMap<Category, IncludeCategoryDto>().ReverseMap();
+            CreateMap<Category, CategoryGetDto>().ReverseMap();
 
         }
     }

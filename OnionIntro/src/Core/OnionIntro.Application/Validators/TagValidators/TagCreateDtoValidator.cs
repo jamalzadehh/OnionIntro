@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace OnionIntro.Application.Validators.TagValidators
 {
-    internal class TagCreateDtoValidator : AbstractValidator<CategoryCreateDto>
+    public class TagCreateDtoValidator : AbstractValidator<CategoryCreateDto>
     {
         public TagCreateDtoValidator()
         {

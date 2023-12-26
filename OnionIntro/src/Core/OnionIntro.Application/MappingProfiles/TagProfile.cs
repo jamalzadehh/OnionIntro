@@ -13,9 +13,10 @@ namespace OnionIntro.Application.MappingProfiles
     {
         public TagProfile()
         {
-            CreateMap<Tag, TagCreateDto>().ReverseMap();
             CreateMap<Tag, TagItemDto>().ReverseMap();
-            CreateMap<TagItemDto, Tag>();
+            CreateMap<TagCreateDto, Tag>();
+            CreateMap<TagUpdateDto, Tag>().ReverseMap();
+            CreateMap<Tag, TagGetDto>().ReverseMap();
         }
     }
 }

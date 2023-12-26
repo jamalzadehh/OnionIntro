@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace OnionIntro.Application.Validators.ProductValidators
 {
-    internal class ProductCreateDtoValidator:AbstractValidator<ProductCreateDto>
+    public class ProductCreateDtoValidator:AbstractValidator<ProductCreateDto>
     {
         public ProductCreateDtoValidator()
         {
@@ -20,6 +20,12 @@ namespace OnionIntro.Application.Validators.ProductValidators
             RuleFor(x => x.SKU).NotEmpty().MaximumLength(10);
             RuleFor(x => x.Price).NotEmpty().LessThanOrEqualTo(999999.99m).GreaterThanOrEqualTo(10);
             RuleFor(x => x.Description).MaximumLength(1000);
+            RuleFor(p => p.CategoryId).Must(c=>c>0).WithMessage("You must include correct category id");
+
+            RuleForEach(x => x.ColorIds).Must(c => c > 0).WithMessage("You must include correct color id");
+            RuleForEach(x => x.TagIds).Must(c => c > 0).WithMessage("You must include correct tag id");
+            RuleFor(p => p.ColorIds).NotEmpty().WithMessage("You must include color id");
+            RuleFor(p => p.TagIds).NotEmpty().WithMessage("You must include tag id");
 
         }
         

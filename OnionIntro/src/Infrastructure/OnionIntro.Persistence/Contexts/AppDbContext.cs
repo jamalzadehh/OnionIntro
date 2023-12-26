@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using OnionIntro.Domain.Entities;
+using OnionIntro.Persistence.Common;
 using OnionIntro.Persistence.Configurations;
 using System;
 using System.Collections.Generic;
@@ -26,9 +27,7 @@ namespace OnionIntro.Persistence.Contexts
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Category>().HasQueryFilter(c => c.IsDeleted == false);
-
-
+            modelBuilder.ApplyQueryFilters();
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 
             base.OnModelCreating(modelBuilder);
